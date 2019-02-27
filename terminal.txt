@@ -1,0 +1,6 @@
+STRG+D - Closing the Terminal
+STRG+C - Completes Editing
+man - brings up Manual
+du - Disk Utility
+Scaffolding - to bring it into shape
+
